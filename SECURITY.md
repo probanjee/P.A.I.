@@ -5,8 +5,8 @@
 [![Core Project](https://img.shields.io/badge/Core%20Project-Pi%20%E2%88%82-blue?style=for-the-badge)](#supported-versions)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-orange?style=for-the-badge)](https://creativecommons.org/licenses/by-nc/4.0/)
 
-> **Prosenjit — Practical Assistant Inside (PAI)
-> *Engineered by Prosun Banerjee ([@probanjee](https://github.com/probanjee))*
+> **Prosenjit** — Practical Assistant Inside (PAI)
+> **Engineered by Prosun Banerjee** ([@probanjee](https://github.com/probanjee))*
 
 ---
 
